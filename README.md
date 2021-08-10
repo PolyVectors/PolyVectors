@@ -1,1 +1,3 @@
-I’m Poly, I’m a reverse engineer, I like to take things apart and see how they tick. I have experience in programming languages such as: C++, C#, Python, and Lua C. I also design User Interface and Module Scripts for Server Sided Scripts. I like to take time on my personal projects and love to polish every last detail; I am very picky with what looks good to me.
+I'm PolyVector, I enjoy reverse engineering and programming (C++, C#, Lua, Python).
+
+DM me if you want any work done.
