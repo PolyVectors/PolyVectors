@@ -1,3 +1,5 @@
-I'm PolyVector, I enjoy reverse engineering and programming (C++, C#, Lua, Python).
+# quick facts:
 
-DM me if you want any work done.
+-i like to code stuff
+-i wont program anything for you
+-i dont like anime; i wont watch one piece, stop
