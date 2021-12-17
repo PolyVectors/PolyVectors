@@ -1,7 +1,4 @@
-# quick facts:
+programmer, 13
+tweet me: @PolyVector
 
--i like to code stuff
-
--i wont program anything for you
-
--i dont like anime; i wont watch one piece, stop
+(and i probably wont work on your project, sorry)
