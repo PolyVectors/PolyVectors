@@ -1,4 +1,4 @@
-programmer, 13
-tweet me: @PolyVector
+i code shit,
+nothing more to say
 
-(and i probably wont work on your project, sorry)
+[rust | nodejs | c++ ]
