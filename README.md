@@ -1,4 +1,4 @@
-i code shit,
-nothing more to say
+hi im poly (janPoli) and i like to make games.
+i speak english and toki pona.
 
-[rust | nodejs | c++ ]
+i script my games using: ts-roblox, rojo, and aftman.
