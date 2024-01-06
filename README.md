@@ -1,2 +1,2 @@
-[![PolyVector's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyVectors&show_icons=true&hide=contribs,prs&width=512&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyVectors&show_icons=true&width=512&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![PolyVector's GitHub stats](https://github-readme-stats.vercel.app/api?username=PolyVectors&show_icons=true&hide=contribs,prs&card_width=512&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyVectors&show_icons=true&card_width=512&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
